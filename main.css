@@ -182,14 +182,14 @@ img.profile-pic {
 .viewbrochurebutton {
 	background-color: #254f41;
 	height: 30px;
-	padding-left: 20px
-	padding-right: 20px;
+	padding-left: 10px
+	padding-right: 10px;
 	text-align: center;
 	vertical-align: left;
 	line-height: 30px;
 	font-family: 'Muli', sans-serif;
 	color: white;
-	font-weight: 300;
+	font-weight: 200;
 }
 
 @media screen and (max-width: 600px) {
