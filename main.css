@@ -15,7 +15,7 @@ section {
 
 .section.a {
 	display: inline-block;
-	width: 100px;
+	width: 40%;
   	height: 50px;
   	padding: 5px
 }
@@ -65,7 +65,7 @@ img.profile-pic {
 
 .row.a {
 	display: inline-block;
-	width: 100px;
+	width: 40%;
   	height: 50px;
   	padding: 5px
 }
