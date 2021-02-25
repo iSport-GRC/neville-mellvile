@@ -65,7 +65,7 @@ img.profile-pic {
 
 .row.a {
 	display: inline-block;
-	width: 40%;
+	width: auto;
   	height: 50px;
   	padding: 5px
 }
@@ -89,9 +89,9 @@ img.profile-pic {
 	flex-shrink: 1;
 	margin: 0;
 	padding: 0.25rem;
-	max-width: 100%;
+	max-width: auto;
 	max-height: 100%;
-	overflow: visible;
+	overflow: hidden;
 }
 
 .col.is-1 {
@@ -116,7 +116,7 @@ img.profile-pic {
 
 .col.is-5 {
 	flex: none;
-	width: 100%;
+	width: 90%;
 }
 
 .col.is-6 {
@@ -190,7 +190,7 @@ img.profile-pic {
 }
 
 .bottom {
-	height: 23%;
+	height: 20%;
 }
 
 .button {
