@@ -197,15 +197,15 @@ img.profile-pic {
 
 button {
    display: inline-block;
-   ackground-color:#254f41;
-   height:auto;
-   padding:6px;
-   margin:3px;
-   text-align:center;
-   vertical-align:middle;
-   line-height:40px;
+   ackground-color: #254f41;
+   height: auto;
+   padding: 6px;
+   margin: 3px;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 40px;
    font-family: 'Muli', sans-sarif;
-   color:white;
+   color: white;
    font-weight: 300;
 
 }
