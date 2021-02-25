@@ -144,6 +144,11 @@ img.profile-pic {
 	width: 100%;
 }
 
+.col.is-11 {
+	flex: none;
+	width: 90%;
+}
+
 .name-title-company {
 	height: 100%;
 }
