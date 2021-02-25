@@ -15,7 +15,7 @@ section {
 
 .section.a {
 	display: inline-block;
-	width: 40%;
+	width: auto;
   	height: 25px;
   	padding: 5px
 }
@@ -66,7 +66,7 @@ img.profile-pic {
 .row.a {
 	display: inline-block;
 	width: auto;
-  	height: 50px;
+  	height: auto;
   	padding: 5px
 }
 
@@ -89,7 +89,7 @@ img.profile-pic {
 	flex-shrink: 1;
 	margin: 0;
 	padding: 0.25rem;
-	max-width: auto;
+	max-width: 95%;
 	max-height: 100%;
 	overflow: hidden;
 }
