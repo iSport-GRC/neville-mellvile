@@ -196,22 +196,18 @@ img.profile-pic {
 }
 
 button {
- display:inline-block;
- padding:0.3em 1.2em;
- margin:0 0.3em 0.3em 0;
- border-radius:2em;
- box-sizing: border-box;
- text-decoration:none;
- font-family:'Roboto',sans-serif;
- font-weight:300;
- color:#FFFFFF;
- background-color:#254f41;
- text-align:center;
- transition: all 0.2s;
-}
+   display:inline;
+   ackground-color: #254f41;
+   height: auto;
+   padding: 6px;
+   margin: 3px;
+   text-align: center;
+   vertical-align: middle;
+   line-height: 40px;
+   font-family: 'Muli', sans-sarif;
+   color: white;
+   font-weight: 300;
 
-.button:hover {
- background-color:#88b3a4;
 }
 
 @media screen and (max-width: 600px) {
@@ -226,11 +222,4 @@ button {
     height: 80%;
     width: 80%;
   }
-}
-
-@media all and (max-width:30em){
- .button {
-  display:block;
-  margin:0.2em auto;
- }
 }
