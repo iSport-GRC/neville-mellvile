@@ -23,8 +23,8 @@ a {
 
 img {
 	display: block;
-    margin-left: 0 auto;
-    margin-right: 0 auto;
+    margin-left: 10;
+    margin-right: 10;
     max-height: 50%;
     max-width: 50%;
     height: auto;
