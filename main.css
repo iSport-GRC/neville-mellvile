@@ -196,7 +196,7 @@ img.profile-pic {
 }
 
 button {
-   display:inline;
+   display: inline-block;
    ackground-color:#254f41;
    height:auto;
    padding:6px;
