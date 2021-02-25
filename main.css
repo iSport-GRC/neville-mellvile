@@ -193,26 +193,13 @@ img.profile-pic {
 	height: 20%;
 }
 
-.button.l {
+.button {
 	background-color: #254f41;
 	height: 40px;
 	padding-left: 10px
 	padding-right: 10px;
 	text-align: center;
-	vertical-align: left;
-	line-height: 40px;
-	font-family: 'Muli', sans-serif;
-	color: white;
-	font-weight: 300;
-}
-
-.button.r {
-	background-color: #254f41;
-	height: 40px;
-	padding-left: 10px
-	padding-right: 10px;
-	text-align: center;
-	vertical-align: right;
+	vertical-align: middle;
 	line-height: 40px;
 	font-family: 'Muli', sans-serif;
 	color: white;
