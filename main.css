@@ -29,7 +29,7 @@ img {
     max-width: auto;
     height: auto;
     width: auto;
-    object-fit: cover;
+    object-fit: contain;
 }
 
 img.profile-pic {
