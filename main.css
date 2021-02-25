@@ -29,7 +29,7 @@ a {
 }
 
 img {
-	display: block;
+    display: block;
     margin-left: 10;
     margin-right: 10;
     max-height: 100%;
@@ -84,9 +84,12 @@ img.profile-pic {
 
 .col.a {
 	display: inline-block;
-	margin: 3px;
-	padding: 6px;
-	max-width: 95%;
+	flex-basis: 0;
+	flex-grow: 1;
+	flex-shrink: 1;
+	margin: 0;
+	padding: 0.25rem;
+	max-width: 40%;
 	max-height: 100%;
 	overflow: hidden;
 }
