@@ -16,7 +16,7 @@ section {
 .section.a {
 	display: inline-block;
 	width: 40%;
-  	height: 50px;
+  	height: 25px;
   	padding: 5px
 }
 
@@ -193,13 +193,26 @@ img.profile-pic {
 	height: 20%;
 }
 
-.button {
+.button.l {
 	background-color: #254f41;
 	height: 40px;
-	padding-left: 20px
-	padding-right: 20px;
+	padding-left: 10px
+	padding-right: 10px;
 	text-align: center;
-	vertical-align: middle;
+	vertical-align: left;
+	line-height: 40px;
+	font-family: 'Muli', sans-serif;
+	color: white;
+	font-weight: 300;
+}
+
+.button.r {
+	background-color: #254f41;
+	height: 40px;
+	padding-left: 10px
+	padding-right: 10px;
+	text-align: center;
+	vertical-align: right;
 	line-height: 40px;
 	font-family: 'Muli', sans-serif;
 	color: white;
