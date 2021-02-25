@@ -49,7 +49,7 @@ img.profile-pic {
 .container {
 	margin: 0 auto;
 	position: relative;
-	height: 100%;
+	height: auto;
 }
 
 .row {
