@@ -13,6 +13,9 @@ section {
 	height: 100%;
 }
 
+section.bg-image.banner {
+}
+
 .section.a {
 	display: inline-block;
 	width: auto;
