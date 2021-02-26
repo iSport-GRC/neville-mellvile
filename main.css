@@ -68,7 +68,7 @@ html,
 	 
 	.row.a {
 		display: inline-block;
-		width: auto;
+		width: 40%;
 	  	height: auto;
 	  	padding: 5px
 	}
@@ -198,22 +198,22 @@ html,
 	}
 	 
 	.bottom {
-		height: 20%;
+    	    height: 20%;
 	}
 	 
 	.button {
-	   display: inline-block;
-	   background-color: #254f41;
-	   height: auto;
-	   padding: 6px;
-	   margin: 3px;
-	   text-align: center;
-	   vertical-align: middle;
-	   line-height: 40px;
-	   font-family: 'Muli', sans-sarif;
-	   color: white;
-	   font-weight: 300;
-	}
+            display: inline-block;
+            background-color: #254f41;
+            height: auto;
+            padding: 6px;
+            margin: 3px;
+            text-align: center;
+            vertical-align: middle;
+            line-height: 40px;
+            font-family: 'Lato', sans-sarif;
+            color: white;
+            font-weight: 300;
+        }
 	 
 	@media screen and (max-width: 600px) {
 	  img.profile-pic {
