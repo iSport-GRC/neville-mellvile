@@ -204,8 +204,7 @@ html,
 	.button {
             display: inline-block;
             background-color: #254f41;
-            height: auto;
-            padding: 6px;
+            padding: 12px 28px;
             margin: 3px;
             text-align: center;
             vertical-align: middle;
