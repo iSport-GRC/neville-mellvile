@@ -201,7 +201,7 @@ img.profile-pic {
 	height: 20%;
 }
 
-button {
+.button {
    display: inline-block;
    ackground-color: #254f41;
    height: auto;
