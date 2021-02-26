@@ -17,11 +17,76 @@ section.bg-image.banner {
 }
 
 .section.a {
-	display: inline-block;
-	width: auto;
-  	height: 25px;
-  	padding: 5px
+background: #ffffff;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  padding: 20px;
+  max-width: 700px;
 }
+
+div {
+  padding: 20px; // 15px 25px;
+  font-size: 1.5rem;
+  border-radius: 10px;  
+  overflow: hidden;
+  margin: 0;
+  min-height: 150px;  
+  font-size: 1.25rem;
+  line-height: 1.5;
+  letter-spacing: 3px;
+  //text-transform: uppercase;
+  font-weight: normal;
+}
+
+.left {
+  background-color: #254f41;
+}
+
+.right {
+  background-color: #254f41;
+}
+
+.grid-parent {
+  display: grid;
+}
+.flex-parent {
+  display: flex;
+  min-height: 0px;
+}
+
+.jc-center {
+  justify-content: center;
+}
+
+.content {
+  font-size: 2rem;
+  border: none;
+  padding: 20px;
+  margin-bottom: 40px;
+}
+
+.text-center {
+  text-align: center;
+}
+
+button {
+  border: 2px solid #ffffff;
+  border-radius: 8px;
+  padding: 15px 40px;
+  color: #ffffff;
+  font-size: 1.25rem;
+  cursor: pointer;
+  transition: all 150ms ease-in-out;
+   
+  }
+  
+  .margin-auto {
+    margin: 0 auto;    
+  }
+  
+  .margin-right {
+    margin-right: 20px;
+  }
 
 p {
 	margin: 0.25rem !important;
