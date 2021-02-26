@@ -7,9 +7,11 @@ ORG:Golf Resorts Club;
 TITLE:Franchise Principal\iSport SA Travel
 EMAIL;type=INTERNET;type=WORK;type=pref:leisuregroup@mweb.co.za
 TEL;type=WORK;type=VOICE:+27 83 287 9720
-item1.ADR;type=WORK;type=pref:;;Copperleaf Golf Estate\Mnandi\, Centurion;;;3610;KZN
+TEL;type=RESERVATIONS;type=VOICE:+27 31 717 7604
+TEL;type=ACCOUNTS;type=VOICE:+27 31 717 7381
+item1.ADR;type=WORK;type=pref:;;Copperleaf Golf Estate\, Mnandi\, Centurion;;;3610;KZN
 item1.X-ABADR:South Africa
-item2.ADR;type=HEAD OFFICE;type=pref:;;1 Crompton Street\Pinetown\, Durban;;;0157;Gauteng
+item2.ADR;type=HEAD OFFICE;type=pref:;;1 Crompton Street\, Pinetown\, Durban;;;0157;Gauteng
 item2.X-ABADR:South Africa
 item3.URL;type=pref:golfresortsclub.co.za
 item3.X-ABLabel:_$!<HomePage>!$_
