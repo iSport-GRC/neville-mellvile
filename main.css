@@ -226,6 +226,10 @@ button.margin-right {
   margin-right: 20px;
 }
 
+body {
+  text-align: center;
+}
+
 .wrapper {
   display: flex;
   justify-content: center;
@@ -239,13 +243,13 @@ button.margin-right {
   transition: all ease-in-out 150ms;
 }
 .wrapper a:nth-child(1) {
-  color: #dd4b39;
+  color: #254f41;
 }
 .wrapper a:nth-child(2) {
-  color: #4867AA;
+  color: #254f41;
 }
 .wrapper a:nth-child(3) {
-  color: #1DA1F2;
+  color: #254f41;
 }
 .wrapper i:hover {
   margin-top: -3px;
