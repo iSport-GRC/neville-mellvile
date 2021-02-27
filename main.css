@@ -270,7 +270,7 @@ body {
 .qr-code{
    width: 60px;
    height: 60px;
-   margin-left: 50%;
+   margin-left: 40%;
 }
    
 	@media screen and (max-width: 600px) {
