@@ -231,10 +231,10 @@ body {
 }
 
 .fa {
-  display: inline-block;
+  display: center;
   padding: 10px;
-  font-size: 10px;
-  width: 10px;
+  font-size: 30px;
+  width: 20px;
   text-align: center;
   text-decoration: none;
   margin: 5px 2px;
