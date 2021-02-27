@@ -237,7 +237,7 @@ body {
   width: 20px;
   text-align: center;
   text-decoration: none;
-  margin: 10px 10px;
+  margin: 5px 2px;
   border-radius: 50%;
 }
 
@@ -248,6 +248,7 @@ body {
 .fa-facebook {
   background: #254f41;
   color: white;
+  margin-left: 40%;
 }
 
 .fa-twitter {
