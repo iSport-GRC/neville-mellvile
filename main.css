@@ -267,6 +267,12 @@ body {
   color: white;
 }
 
+.qr-code{
+   vertical-align: middle;
+   width: 15px;
+   height: 15px;
+}
+   
 	@media screen and (max-width: 600px) {
 	  img.profile-pic {
 	    height: 60%;
