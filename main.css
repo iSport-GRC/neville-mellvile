@@ -268,9 +268,9 @@ body {
 }
 
 .qr-code{
+   width: 60px;
+   height: 60px;
    margin-left: 50%;
-   width: 100px;
-   height: 100px;
 }
    
 	@media screen and (max-width: 600px) {
