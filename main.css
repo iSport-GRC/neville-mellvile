@@ -10,10 +10,14 @@ html,
 		display: block;
 		padding-left: 0.5rem;
 		padding-right: 0.5rem;
-		height: auto%;
+		height: auto;
 	}
 	 
 	section.bg-image.banner {
+		display: block;
+		padding-left: 0.5rem;
+		padding-right: 0.5rem;
+		height: auto;
 	}
 	 
 	.section.a {
