@@ -43,7 +43,7 @@ html,
 	    max-width: 100%;
 	    height: auto;
 	    width: auto;
-	    object-fit: auto;
+	    object-fit: contain;
 	}
 	 
 	img.profile-pic {
