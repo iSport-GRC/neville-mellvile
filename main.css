@@ -48,8 +48,8 @@ html,
 	 
 	img.profile-pic {
 		display: contain;
-		height: 10%;
-		width: 10%;
+		height: 20%;
+		width: 20%;
 		object-fit: contain;
 		border-radius: 0%;
 	}
